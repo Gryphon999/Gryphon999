@@ -1,10 +1,11 @@
 ## Hi, I'm Viktor 👋
 
-**C#/.NET backend developer** based in Yerevan, Armenia. Open to work: remote or office/hybrid in Yerevan.
+**C#/.NET backend developer**, self-taught, based in Russia (Rostov region). Open to work: remote.
 
 ### What I've done
-- ⚡ Sped up a key PostgreSQL query **2100x** (1.26 s to 0.59 ms) on a 200,000+ row table with composite indexes, at an industrial manufacturer
-- 🚜 Built **dead reckoning** navigation for a fleet of 20 agricultural vehicles (Agro-Nav)
+- ⚡ Sped up a key PostgreSQL query **2100x** (1.26 s to 0.59 ms) on a 200,000+ row table with a composite index, in the in-house warehouse system of the KZTM plant
+- 🤖 Shipped **BotBase** to production (Gemini-powered Telegram bot + Blazor CRM used by a real salon) and **soiskatel** (.NET 10 MCP server on NuGet, 168 tests)
+- 🚜 Built **dead reckoning** navigation for a fleet of 20 agricultural vehicles (Agro-Navigator project)
 - 🧪 Cover business logic with xUnit tests and keep the domain layer free of infrastructure
 
 ### Stack
